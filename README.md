@@ -1,5 +1,6 @@
 # DiagramDevelopersWG
-This will be a public code repository of samples to make accessible widgets, tools, scripts, plugins that make educational materials accessible.  
+This will record a public record of identified accessibility gaps to educational materials.
+This will result in ultimately having a public repository of accessible widgets, tools, scripts, plugins that make educational materials accessible to a wide variety of disabilities.  Although this working group is not directly responsible for this repository but identifying what needs to be added to this repository.  
 
 Please use the wiki for meeting minutes and discussions from sub-committees.
 
